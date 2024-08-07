@@ -1,0 +1,13 @@
+
+Introdection for OGGM_Data
+
+
+The first column represents the year.
+
+Folders represent different subregions.
+
+Excel files represent different scenarios.
+
+The first line represents the name of CMIP6 models.
+
+The unit of Volume, Area and Runoff is m3, m2 and Gt, respectively. 
